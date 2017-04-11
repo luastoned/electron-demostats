@@ -1,0 +1,33 @@
+{
+  "name": "electron-demostats",
+  "version": "1.0.0",
+  "description": "Electron app to view CS:GO demo files",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luastoned/electron-demostats.git"
+  },
+  "keywords": [
+    "Electron",
+    "CS:GO",
+    "Demo",
+    "Stats"
+  ],
+  "author": "@LuaStoned",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luastoned/electron-demostats/issues"
+  },
+  "homepage": "https://github.com/luastoned/electron-demostats#readme",
+  "devDependencies": {
+    "babel-core": "^7.0.0-alpha.7",
+    "babel-loader": "^7.0.0-beta.1",
+    "babel-preset-es2015": "^7.0.0-alpha.7",
+    "babel-preset-react": "^7.0.0-alpha.7",
+    "webpack": "^2.3.3",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
